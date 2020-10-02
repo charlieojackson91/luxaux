@@ -1,26 +1,74 @@
 [
     {
+        "id"                : 1,
         "productName"       : "Ferrari Rosso",
         "startingPrice"     : 80000,
         "limit"             : 10000,
         "increment"         : 1000,
-        "imgArray"          : ["./ferr1.jpg", "./ferr2.jpg"],
-        "productCategories" : ["car", "sports car", "lxury vehicle"]
+        "imgArray"          : ["./ferr1.jpg"],
+        "productCategories" : ["car", "sports car", "lxury vehicle"],
+        "auctionExpiry"     : "31-10-2020",
+        "productFeatures"   : {"topSpeed":100, "miles":44000, "numSeats":2},
+        "review"            : 9
     },
     {
-        "productName"       : "Ferrari Rosso",
+        "id"                : 2,
+        "productName"       : "Porse 911",
         "startingPrice"     : 80000,
         "limit"             : 10000,
         "increment"         : 1000,
-        "imgArray"          : ["./ferr1.jpg", "./ferr2.jpg"],
-        "productCategories" : ["car", "sports car", "lxury vehicle"]
+        "imgArray"          : ["./porsh1.jpg"],
+        "productCategories" : ["car", "sports car", "lxury vehicle"],
+        "auctionExpiry"     : "31-10-2020",
+        "productFeatures"   : {"topSpeed":100, "miles":44000, "numSeats":2},
+        "review"            : 8
     }, 
     {
+        "id"                : 3,
+        "productName"       : "Audi R8",
+        "startingPrice"     : 80000,
+        "limit"             : 10000,
+        "increment"         : 1000,
+        "imgArray"          : ["./audi1.jpg"],
+        "productCategories" : ["car", "sports car", "lxury vehicle"],
+        "auctionExpiry"     : "31-10-2020",
+        "productFeatures"   : {"topSpeed":100, "miles":44000, "numSeats":2},
+        "review"            : 7.5
+    },
+    {
+        "id"                : 1,
         "productName"       : "Ferrari Rosso",
         "startingPrice"     : 80000,
         "limit"             : 10000,
         "increment"         : 1000,
-        "imgArray"          : ["./ferr1.jpg", "./ferr2.jpg"],
-        "productCategories" : ["car", "sports car", "lxury vehicle"]
+        "imgArray"          : ["./ferr1.jpg"],
+        "productCategories" : ["car", "sports car", "lxury vehicle"],
+        "auctionExpiry"     : "31-10-2020",
+        "productFeatures"   : {"topSpeed":100, "miles":44000, "numSeats":2},
+        "review"            : 9
+    },
+    {
+        "id"                : 2,
+        "productName"       : "Porse 911",
+        "startingPrice"     : 80000,
+        "limit"             : 10000,
+        "increment"         : 1000,
+        "imgArray"          : ["./porsh1.jpg"],
+        "productCategories" : ["car", "sports car", "lxury vehicle"],
+        "auctionExpiry"     : "31-10-2020",
+        "productFeatures"   : {"topSpeed":100, "miles":44000, "numSeats":2},
+        "review"            : 8
+    }, 
+    {
+        "id"                : 3,
+        "productName"       : "Audi R8",
+        "startingPrice"     : 80000,
+        "limit"             : 10000,
+        "increment"         : 1000,
+        "imgArray"          : ["./audi1.jpg"],
+        "productCategories" : ["car", "sports car", "lxury vehicle"],
+        "auctionExpiry"     : "31-10-2020",
+        "productFeatures"   : {"topSpeed":100, "miles":44000, "numSeats":2},
+        "review"            : 7.5
     }
 ]
