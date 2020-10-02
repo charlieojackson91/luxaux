@@ -1,0 +1,26 @@
+[
+    {
+        "productName"       : "Ferrari Rosso",
+        "startingPrice"     : 80000,
+        "limit"             : 10000,
+        "increment"         : 1000,
+        "imgArray"          : ["./ferr1.jpg", "./ferr2.jpg"],
+        "productCategories" : ["car", "sports car", "lxury vehicle"]
+    },
+    {
+        "productName"       : "Ferrari Rosso",
+        "startingPrice"     : 80000,
+        "limit"             : 10000,
+        "increment"         : 1000,
+        "imgArray"          : ["./ferr1.jpg", "./ferr2.jpg"],
+        "productCategories" : ["car", "sports car", "lxury vehicle"]
+    }, 
+    {
+        "productName"       : "Ferrari Rosso",
+        "startingPrice"     : 80000,
+        "limit"             : 10000,
+        "increment"         : 1000,
+        "imgArray"          : ["./ferr1.jpg", "./ferr2.jpg"],
+        "productCategories" : ["car", "sports car", "lxury vehicle"]
+    }
+]
