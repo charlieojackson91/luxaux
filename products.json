@@ -7,8 +7,9 @@
         "increment"         : 1000,
         "imgArray"          : ["./ferr1.jpg"],
         "productCategories" : ["car", "sports car", "lxury vehicle"],
-        "auctionExpiry"     : "31-10-2020",
+        "auctionExpiry"     : "28-10-2020",
         "productFeatures"   : {"topSpeed":100, "miles":44000, "numSeats":2},
+        "seller"            : "David Beckham",
         "review"            : 9
     },
     {
@@ -19,8 +20,9 @@
         "increment"         : 1000,
         "imgArray"          : ["./porsh1.jpg"],
         "productCategories" : ["car", "sports car", "lxury vehicle"],
-        "auctionExpiry"     : "31-10-2020",
+        "auctionExpiry"     : "7-10-2020",
         "productFeatures"   : {"topSpeed":100, "miles":44000, "numSeats":2},
+        "seller"            : "Paul Scholes",
         "review"            : 8
     }, 
     {
@@ -31,44 +33,48 @@
         "increment"         : 1000,
         "imgArray"          : ["./audi1.jpg"],
         "productCategories" : ["car", "sports car", "lxury vehicle"],
-        "auctionExpiry"     : "31-10-2020",
+        "auctionExpiry"     : "14-10-2020",
         "productFeatures"   : {"topSpeed":100, "miles":44000, "numSeats":2},
+        "seller"            : "Teddy Sheringham",
         "review"            : 7.5
     },
     {
-        "id"                : 1,
+        "id"                : 4,
         "productName"       : "Ferrari Rosso",
         "startingPrice"     : 80000,
         "limit"             : 10000,
         "increment"         : 1000,
         "imgArray"          : ["./ferr1.jpg"],
         "productCategories" : ["car", "sports car", "lxury vehicle"],
-        "auctionExpiry"     : "31-10-2020",
+        "auctionExpiry"     : "19-10-2020",
         "productFeatures"   : {"topSpeed":100, "miles":44000, "numSeats":2},
+        "seller"            : "Alan Shearer",
         "review"            : 9
     },
     {
-        "id"                : 2,
+        "id"                : 5,
         "productName"       : "Porse 911",
         "startingPrice"     : 80000,
         "limit"             : 10000,
         "increment"         : 1000,
         "imgArray"          : ["./porsh1.jpg"],
         "productCategories" : ["car", "sports car", "lxury vehicle"],
-        "auctionExpiry"     : "31-10-2020",
+        "auctionExpiry"     : "04-10-2020",
         "productFeatures"   : {"topSpeed":100, "miles":44000, "numSeats":2},
+        "seller"            : "Frank Lampard",
         "review"            : 8
     }, 
     {
-        "id"                : 3,
+        "id"                : 6,
         "productName"       : "Audi R8",
         "startingPrice"     : 80000,
         "limit"             : 10000,
         "increment"         : 1000,
         "imgArray"          : ["./audi1.jpg"],
         "productCategories" : ["car", "sports car", "lxury vehicle"],
-        "auctionExpiry"     : "31-10-2020",
+        "auctionExpiry"     : "10-10-2020",
         "productFeatures"   : {"topSpeed":100, "miles":44000, "numSeats":2},
+        "seller"            : "Michael Owen",
         "review"            : 7.5
     }
 ]
