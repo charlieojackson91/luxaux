@@ -1,9 +1,7 @@
 # Todos:
-<ul>
-  <li>
-1 - countdown timer
-2 - search functionality (possibly additional side filters for price, auction end date etc)
-3 - add products to auction
-4 - pages for different product categories
-  </li>
-</ul>
+<ol>
+  <li>countdown timer</li>
+  <li>search functionality (possibly additional side filters for price, auction end date etc)</li>
+  <li>add products to auction</li>
+  <li>pages for different product categories</li>
+</ol>
